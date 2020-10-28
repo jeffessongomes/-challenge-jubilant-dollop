@@ -20,7 +20,7 @@
 
 ## :computer: Sobre
 
-O projeto é um desafio proposto após o fim do primeiro modulo do **GoStack**, oferecido pelo [Rocketseat](https://www.rocketseat.com.br).
+O projeto é um desafio proposto após o fim do primeiro modulo do **GoStack**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
 
 ---
 ### :hammer: **Tecnologias**
