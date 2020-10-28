@@ -35,7 +35,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	👨‍🏫 GoStack Modulo 01 concluído !
+	👨‍🏫 O desafio já foi concluído !
 </h4>
 
 ### :dvd: **Executar o Projeto**
