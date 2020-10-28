@@ -42,7 +42,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/jeffessongomes/challenge-jubilant-dollop>
+$ git clone https://github.com/jeffessongomes/challenge-jubilant-dollop
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd challenge-jubilant-dollop
